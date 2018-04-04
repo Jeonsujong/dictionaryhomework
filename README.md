@@ -15,6 +15,6 @@
 
 ### 참고문서
 <br>
-###### https://apidock.com/ruby/Array
-###### https://apidock.com/ruby/String
-###### https://github.com/likelionkonkuk/w2_mon_material
+###### 1. https://apidock.com/ruby/Array
+###### 2. https://apidock.com/ruby/String
+###### 3. https://github.com/likelionkonkuk/w2_mon_material
